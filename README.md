@@ -17,7 +17,6 @@
 - Eliminar el subir backup
 
 ## Capturas de pantalla `helloworld.bat`
-[![Imagen1.png](https://i.postimg.cc/FzLsLKK4/Imagen1.png)](https://postimg.cc/kR7mrq81)
 [![Imagen2.png](https://i.postimg.cc/TwZDy16V/Imagen2.png)](https://postimg.cc/7Gn6dxbh)
 [![Imagen3.png](https://i.postimg.cc/L86n8LPd/Imagen3.png)](https://postimg.cc/pp4209kk)
 [![Imagen4.png](https://i.postimg.cc/DwHn3XdP/Imagen4.png)](https://postimg.cc/v4rpWDK4)
